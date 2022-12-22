@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Simulating 3D Sound
+description: Implementing an audio processing system to simulate realistic distance with sound
+img: assets/img/spectrogram.png
 importance: 1
 category: work
 ---
