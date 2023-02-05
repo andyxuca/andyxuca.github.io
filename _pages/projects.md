@@ -5,7 +5,7 @@ permalink: /projects/
 description: a growing collection of my personal projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, 3d art]
 horizontal: false
 ---
 
