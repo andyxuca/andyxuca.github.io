@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Andy, a student at Dartmouth College studying computer science. My research interests revolve around applications of AI/ML across subjects ranging from natural language processing to music. In my free time, I enjoy running, playing instruments, and watching TV shows. My favorite is Game of Thrones, but I'm currently very into The Last of Us!
+Hi! I'm Andy, a student at Dartmouth College studying computer science. My research interests revolve around applications of AI/ML across subjects ranging from natural language processing to music. In my free time, I enjoy running, exploring the outdoors, playing instruments, and watching TV shows. My favorite is Game of Thrones, but I'm currently very into The Last of Us!
 
 Contact me through [email](andy.xu.26@dartmouth.edu) or [LinkedIn](https://www.linkedin.com/in/andyxu/)!
