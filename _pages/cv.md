@@ -1,4 +1,5 @@
 ---
+layout: page
 redirect: andy_resume.pdf
 permalink: /resume/
 title: resume
