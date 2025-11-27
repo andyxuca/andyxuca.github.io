@@ -2,9 +2,9 @@
 
 let toggleTheme = (theme) => {
   if (theme == "dark") {
-    setTheme("dark");
-  } else {
     setTheme("light");
+  } else {
+    setTheme("dark");
   }
 }
 
@@ -81,4 +81,5 @@ let initTheme = (theme) => {
 
 
 initTheme(localStorage.getItem("theme"));
+
 
