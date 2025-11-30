@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Barnacle Vision
-description: Categorizing NBA players from the 2022-2023 season using K-means clustering
+description: Identifying barnacles using Meta's Segment Anything Model (SAM)
 img: /assets/img/barnacle.png
 redirect: https://github.com/andyxuca/tidepool-barnacles
 importance: 4
