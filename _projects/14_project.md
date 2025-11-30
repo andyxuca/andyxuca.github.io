@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SmartAvatar Generation
+title: Smart Avatar Generation
 description: Text- and Image-Guided Human Avatar Generation with VLM AI Agents
 img: /assets/img/smart_avatar.png
 redirect: https://arxiv.org/abs/2506.04606
