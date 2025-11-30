@@ -1,7 +1,7 @@
 ---
 layout: page
 title: biped animation
-description: Biped robot I designed, and animated using Autodesk Maya. Features Gnarls Barkley's "Crazy"
+description: Biped robot I designed and animated using Autodesk Maya, featuring Gnarls Barkley's "Crazy"
 img: /assets/img/biped.png
 redirect: https://drive.google.com/file/d/1fX9K-GgYda6EvsWmhuWEBWbuofXeZZON/view?usp=sharing
 importance: 3
