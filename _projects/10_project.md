@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blue abstract
-description: Blue abstract i designed using Autodesk Maya
+title: wavy blue abstract
+description: Wavy blue abstract I designed and rendered using Autodesk Maya
 img: /assets/img/blue.jpg
 redirect: https://drive.google.com/drive/folders/1MmLcIhDqVjTolGDkLF8yNe34uaenqaR-?usp=sharing
 importance: 2
