@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Andy, an undergraduate student at Dartmouth College studying computer science. My research interests revolve around multi-modal generative AI and agent frameworks, and I am currently developing my senior thesis under [Professor Yu-Wing Tai](https://yuwingtai.github.io/). On campus, I work in the [DALI Lab](https://dali.dartmouth.edu/) and [Jacobson Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and serve as a teaching assistant for CS 74: Machine Learning and Statistical Analysis. I am deeply committed to advancing AI in a responsible and human-centered way. 
+Hi! I'm Andy, an undergraduate student at Dartmouth College studying computer science. My research interests revolve around multi-modal generative AI and agent frameworks, and I am currently completing my senior thesis under [Professor Yu-Wing Tai](https://yuwingtai.github.io/). On campus, I work in the [DALI Lab](https://dali.dartmouth.edu/) and [Jacobson Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and serve as a teaching assistant for CS 74: Machine Learning and Statistical Analysis. I am deeply committed to advancing AI in a responsible and human-centered way. 
 
 Previously, I interned at [AWS](https://aws.amazon.com/), [IMC Trading](https://www.imc.com/us), and [Palona AI](https://palona.ai/). Outside of academics, I enjoy exploring the outdoors, reading historical fiction novels, playing instruments, practicing with the Dartmouth Triathlon Team, and watching Game of Thrones.
 
